@@ -63,6 +63,7 @@ int main (void)
 
         st7789_show_string(120 - 8*4, 0, "DEBUG 406");
         st7789_show_string(120 - 8*4, 16, "Dian Sai");
+        st7789_show_string(120 - 8*4, 32, "Dian Sai");
     }
 }
 

@@ -13,6 +13,23 @@
 /obj
 /out
 
+*.o
+*.a
+*.lib
+*.elf
+*.hex
+*.bin
+*.map
+*.dis
+*.s
+*.d
+*.i
+*.asm
+*.lst
+
+/project/keil/Objects/*
+/project/keil/Listings/*
+
 # eide template
 *.ept
 *.eide-template
