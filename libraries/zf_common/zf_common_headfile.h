@@ -87,6 +87,9 @@
 #include "zf_device_dl1a.h"
 #include "zf_device_wireless_uart.h"
 
+//zyq add 自定义库
+#include "zf_device_st7789.h"
+#include "zf_device_ips154.h"
 
 //===================================================外接设备驱动层===================================================
 
