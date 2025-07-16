@@ -1,0 +1,18 @@
+# 配置文件
+/.vscode/launch.json
+/.settings
+/.eide
+/.eide.usr.ctx.json
+/.cmsis
+/.vscode
+.clang-format
+*.code-workspace
+# project out
+/build
+/bin
+/obj
+/out
+
+# eide template
+*.ept
+*.eide-template
